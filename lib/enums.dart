@@ -1,0 +1,1 @@
+enum MenuState {home, music, movie, meditation, profile}
